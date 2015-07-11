@@ -1,1 +1,1 @@
-Gmail captcha segmentation
+Gmail captcha localization and segmentation
